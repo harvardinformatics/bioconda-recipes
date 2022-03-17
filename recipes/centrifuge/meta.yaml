@@ -20,6 +20,10 @@ requirements:
     - zlib
 
   run:
+    - blast
+    - kmer-jellyfish
+    - make
+    - mummer4
     - zlib
     - perl
     - wget
